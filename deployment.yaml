@@ -15,8 +15,9 @@ spec:
         app: frontend-nginx
     spec:
       containers:
-      - image: 595362810845.dkr.ecr.ap-northeast-2.amazonaws.com/k8s-cluster-repo:v3.0
+      - image: 770808571291.dkr.ecr.ap-northeast-2.amazonaws.com/k8s-cluster-repo:v1.0
         name: frontend-nginx
+
 
 
 
